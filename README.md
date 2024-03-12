@@ -1,6 +1,6 @@
-![Example Dialog](https://raw.githubusercontent.com/xQuanti/installer/main/installers/img/dialog_installer_1.png)
+![Example Dialog](https://raw.githubusercontent.com/xQuanti/installer/main/img/dialog_installer_0.png)
 
-![Example Dialog](https://raw.githubusercontent.com/xQuanti/installer/main/installers/img/dialog_installer_0.png)
+![Example Dialog](https://raw.githubusercontent.com/xQuanti/installer/main/img/dialog_installer_1.png)
 # Debian sid installer Script
 
 This repository contains a script for installing packages on your system. You can use the one-liner command below to download and execute the script.
