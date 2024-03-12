@@ -10,7 +10,7 @@ fi
 installers_folder="$HOME/installers"
 
 # Define the GitHub repository URL
-repository_url="https://github.com/xquanti/dotfiles.git"
+repository_url="https://github.com/xquanti/installer.git"
 
 # Check if the target folder already exists
 if [ -d "$installers_folder" ]; then
