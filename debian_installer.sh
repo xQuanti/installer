@@ -7,7 +7,7 @@ if ! [ -x "$(command -v git)" ]; then
 fi
 
 # Define the target folder for cloning
-installers_folder="$HOME/installers"
+installers_folder="$HOME/installer"
 
 # Define the GitHub repository URL
 repository_url="https://github.com/xquanti/installer.git"
